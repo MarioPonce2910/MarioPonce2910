@@ -2,4 +2,7 @@
 - 👀 I’m interested in Find and create tools
 - 🌱 I’m currently learning Phyton and JS
 - 💞️ I’m looking to collaborate with anyone who needs support
+- 💞️ I want to be a Docker NINJA
+- 💞️ I'm a Jr.SRE
+- 💞️ I'am a jr full stack developer in php and js
 - 📫 LNKDN https://www.linkedin.com/in/mario-alberto-ponce-brizuela-aa3570129/
